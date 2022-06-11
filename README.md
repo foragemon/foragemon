@@ -4,7 +4,7 @@
 
 
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=foragemon)]
+[![](https://github-readme-stats.vercel.app/api?username=foragemon)]
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=foragemon)]
